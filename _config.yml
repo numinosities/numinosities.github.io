@@ -10,6 +10,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
+  videos:
+    output: true
+    permalink: /videos/:slug
   projects:
     output: true
     permalink: /project/:slug
