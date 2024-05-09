@@ -16,6 +16,8 @@ menu_settings:
       url: 'https://jacobneu.github.io'
     - title: 'Projects'
       url: '/projects/'
+    - title: 'Videos'
+      url: '/videos/'
 
 grid_settings:
   grid_spacing: 10
