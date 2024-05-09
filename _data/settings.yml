@@ -16,14 +16,12 @@ menu_settings:
       url: 'https://jacobneu.github.io'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Contact'
-      url: '/contact'
 
 grid_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: 'https://formspree.io/f/mnqerqek'
+  form_action: ''
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
